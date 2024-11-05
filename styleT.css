@@ -1,0 +1,34 @@
+/*Designer la card*/
+
+.card{
+    width: 300px;
+    box-shadow: 4px 4px 12px #00000025; 
+    border-radius: 16px;
+    padding: 8px;
+    font-family: 'Inter','sans-serif';
+   
+}
+
+.card img{
+    display: block;
+    width: 100%;
+}
+.card .bouton{
+   margin-bottom: 0;
+}
+
+.bouton { 
+    background-color: #1398A0;
+    padding : 16px 32px;
+    border-radius: 8px;
+    color: #fff;
+    display: inline-block;
+    text-decoration: none;
+}
+.flex{
+    display:flex;
+   
+}
+.space{
+    justify-content: space-around;
+}

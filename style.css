@@ -110,3 +110,19 @@ border-radius: 8px;
     border-top-right-radius: 30px;
     border-bottom-left-radius: 30px;
 }
+.card {
+    width: 300px;
+    box-shadow: 4px 4px 12px #00000025;
+    border-radius: 16px;
+    padding: 8;
+    font-family: 'Inter' 'sans verif';
+    margin: auto;
+}
+.card img{
+    display: block;
+    width: 100%;
+}
+.gii{
+    margin-bottom: 12px;
+  
+}
